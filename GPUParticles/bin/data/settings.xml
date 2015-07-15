@@ -1,0 +1,7 @@
+<settings>
+	<simulation_speed>0.55</simulation_speed>
+	<damping>0.0195</damping>
+	<attraction_strength>77.5</attraction_strength>
+	<attraction_attenuation>3e-05</attraction_attenuation>
+<settings/>
+</settings>
